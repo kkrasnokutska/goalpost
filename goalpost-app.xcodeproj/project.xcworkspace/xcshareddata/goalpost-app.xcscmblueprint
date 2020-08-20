@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6610EB44025E3A2D704E48F097813D2F28550683",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7DE49B4E8C8B7C1B79D12D490088312A5B4FFFC0" : 9223372036854775807,
+    "6610EB44025E3A2D704E48F097813D2F28550683" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD78A3F0-99E7-4848-B694-839D41DE8229",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7DE49B4E8C8B7C1B79D12D490088312A5B4FFFC0" : "",
+    "6610EB44025E3A2D704E48F097813D2F28550683" : "goalpost-app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "goalpost-app",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "goalpost-app.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kkrasnokutska\/GOALPOST.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6610EB44025E3A2D704E48F097813D2F28550683"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:team-devslopes\/app-coredata.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7DE49B4E8C8B7C1B79D12D490088312A5B4FFFC0"
+    }
+  ]
+}

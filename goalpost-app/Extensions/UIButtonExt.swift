@@ -1,10 +1,4 @@
-//
-//  UIButtonExt.swift
-//  goalpost-app
-//
-//  Created by Caleb Stultz on 7/31/17.
-//  Copyright © 2017 Caleb Stultz. All rights reserved.
-//
+
 
 import UIKit
 
